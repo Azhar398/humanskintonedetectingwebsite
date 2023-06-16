@@ -1,2 +1,12 @@
-# humanskintonedetectingwebsite
-Human skin tone detecting website was completely coded with two part of team as front end with web developer and back end with ML ( python) team. This website is fully responsive and fully functional as we can able to upload our photo or take picture via web cam to upload.  And proceed under analyze to find the skin tone color via prediction.
+# Image Upload PHP and MYSQL
+
+Just a simple Image Upload PHP and MYSQL
+version: 1.0.0
+
+## Full Tutorial
+
+[On YouTube](https://youtu.be/onu3w8kqASU)
+
+## Authors
+
+[Elias Abdurrahman](https://github.com/codingWithElias)
